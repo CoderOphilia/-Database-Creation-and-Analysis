@@ -1,7 +1,7 @@
 
 CREATE DATABASE Analysis;
 
-USE Assignment1;
+USE Analysis;
 ---DROP TABLE Customers;
 
 --- Table 1: Sample Data for Customers Table
